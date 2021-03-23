@@ -32,3 +32,15 @@ h2{
     color: red;
     font-size: medium;
 }
+
+p{
+    margin-left: 50px;
+    margin-bottom: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+
+iframe{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
